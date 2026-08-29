@@ -1,0 +1,6 @@
+# Large N&O files (110 MB total; download from Zenodo deposit)
+data/agency_usage04262023.csv
+data/public_search_audit20240426.csv
+
+# OS
+.DS_Store

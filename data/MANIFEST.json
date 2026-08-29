@@ -1,0 +1,97 @@
+{
+ "frozen_utc": "2026-08-28",
+ "note": "Data freeze moved from 2026-08-30 to 2026-08-28 by Arjun (scheduled cloud runs ended; this workspace is now responsible). Small files copied here; the two large N&O files stay in the dossier folder and are pinned by checksum.",
+ "files": [
+  {
+   "name": "dataset-2026-wave-latest-per-slug.csv",
+   "copied": true,
+   "source": "dataset-2026-wave-latest-per-slug.csv",
+   "sha256": "c557893f8cb28cef046d0f25f8eea95aab0d963587aecc356e466deec6d4e2d3",
+   "bytes": 16972
+  },
+  {
+   "name": "dataset-2026-wave-all-rows.csv",
+   "copied": true,
+   "source": "dataset-2026-wave-all-rows.csv",
+   "sha256": "1f69756e325b2c26ce9276db8b96b74a169f3baa06ef1e02f25deae61d9248c7",
+   "bytes": 16972
+  },
+  {
+   "name": "bwave-flags-notes.txt",
+   "copied": true,
+   "source": "bwave-flags-notes.txt",
+   "sha256": "629814a9be9f56f905c03579544628a9ab6404fad308bd4900f401515aff45c1",
+   "bytes": 6498
+  },
+  {
+   "name": "frame_ca.csv",
+   "copied": true,
+   "source": "google drive data set/frame_ca.csv",
+   "sha256": "904cdac0f999e9f260be8d62a1de1ee184a0c66cc5b59cde02f56fa165725503",
+   "bytes": 5725
+  },
+  {
+   "name": "frame_panel.csv",
+   "copied": true,
+   "source": "google drive data set/frame_panel.csv",
+   "sha256": "03bde314cfb5d24babf947b64dd588f01649af5e7c17337e52ff66444f617c0a",
+   "bytes": 14085
+  },
+  {
+   "name": "ccops_roster-20260826T0335Z.csv",
+   "copied": true,
+   "source": "google drive data set/ccops_roster-20260826T0335Z.csv",
+   "sha256": "bad14783cdb33151919e9ca18630b16e1709718c5cdb1553c1d1152d6f0f1ec6",
+   "bytes": 2792
+  },
+  {
+   "name": "no_agency_policies.csv",
+   "copied": true,
+   "source": "google drive data set/N&O CSVs/agency_policies.csv",
+   "sha256": "4183261b9619c6d79b3539dcad083868f1bf5e38323b4a9f29552f0cf9833944",
+   "bytes": 235159
+  },
+  {
+   "name": "no_latest_usage04262023.csv",
+   "copied": true,
+   "source": "google drive data set/N&O CSVs/latest_usage04262023.csv",
+   "sha256": "780a0ec381b9499b79ff2f412d0aee885456bebd7ba7b449751105ec717adc0f",
+   "bytes": 801888
+  },
+  {
+   "name": "no_agency20240426.csv",
+   "copied": true,
+   "source": "google drive data set/N&O CSVs/agency20240426.csv",
+   "sha256": "74dbdafbd4e093a5594296c00080fe146bb1215508e52556aeeb55c312290f3d",
+   "bytes": 170023
+  },
+  {
+   "name": "no_agency_access20240426.csv",
+   "copied": true,
+   "source": "google drive data set/N&O CSVs/agency_access20240426.csv",
+   "sha256": "a018122589d1ed29bf7adbc185f020d089d21acc6707140e40b4d52d9979c900",
+   "bytes": 1695622
+  },
+  {
+   "name": "no_transparency_url_status20240429.csv",
+   "copied": true,
+   "source": "google drive data set/N&O CSVs/transparency_url_status20240429.csv",
+   "sha256": "0eb57faff439821954c6ba66b62a1b0b624eb06c33941b5d7b81870fda725f95",
+   "bytes": 375303
+  },
+  {
+   "name": "agency_usage04262023.csv",
+   "copied": false,
+   "source": "google drive data set/N&O CSVs/agency_usage04262023.csv",
+   "sha256": "339136758db5752b0a9c59c0ed1a5fbf869e4bf86a6940b25441b832db914ce2",
+   "bytes": 64703886
+  },
+  {
+   "name": "public_search_audit20240426.csv",
+   "copied": false,
+   "source": "google drive data set/N&O CSVs/public_search_audit20240426.csv",
+   "sha256": "ae26a85502296b2bc709fb9caf7a43f00471bfff1f2349fb882136b263704d58",
+   "bytes": 50472571
+  }
+ ]
+}

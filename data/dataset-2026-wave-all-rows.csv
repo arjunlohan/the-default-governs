@@ -1,0 +1,106 @@
+source_file,slug,agency,state,ret_2024,ret_2026,cameras,share_n,share_oos,share_fed,recv_n,recv_oos,recv_fed,prohibited_variant,policy_url,updated,fetch_date,status,_legacy_schema
+bwave-20260826T0505Z-observations.csv,contra-costa-county-ca-so,Contra Costa County SO,CA,365,365,71,325,0,0,0,0,0,harrassment,,2026-08-25,2026-08-25,OK,
+bwave-20260826T0505Z-observations.csv,coronado-ca-pd,Coronado PD,CA,365,365,137,303,0,0,0,0,0,harrassment,,2026-08-25,2026-08-25,OK,
+bwave-20260826T0505Z-observations.csv,costa-mesa-ca-pd,Costa Mesa PD,CA,365,365,46,345,0,0,0,0,0,harrassment,,2026-08-25,2026-08-25,OK,
+bwave-20260826T0505Z-observations.csv,danville-ca-pd,Danville PD,CA,365,365,51,352,0,0,0,0,0,harrassment,,2026-08-25,2026-08-25,OK,
+bwave-20260826T0505Z-observations.csv,culver-city-ca-pd,Culver City PD,CA,30,30,52,1,0,0,0,0,0,EDITED_adds_abortion_gender_clause,https://www.culvercitypd.gov/files/assets/police/v/1/documents/ripa-reports/policies/ccpd-policy-release-6.30.25.pdf,2026-08-25,2026-08-25,OK,
+bwave-20260826T0505Z-observations.csv,city-of-riverside-ca-pd-,Riverside PD,CA,30,30,119,325,0,0,0,0,0,harrassment,https://riversideca.gov/rpd/resources-forms/rpd-policy-manual,2026-08-25,2026-08-25,OK,
+bwave-20260826T0505Z-observations.csv,clearlake-ca-pd,Clearlake PD,CA,30,30,31,134,0,0,0,0,0,harrassment,,2026-08-25,2026-08-25,OK,
+bwave-20260826T0505Z-observations.csv,east-palo-alto-ca-pd,East Palo Alto PD,CA,,30,25,299,0,0,0,0,0,harassment,https://www.cityofepa.org/sites/default/files/fileattachments/police_department/page/8571/428._automated_license_plate_readers_alprs.pdf,2026-08-25,2026-08-25,OK,
+bwave-20260826T1510Z-observations.csv,ca-napa-valley-college-campus,Napa Valley College,CA,,30,4,176,0,0,0,0,0,harassment,https://www.napavalley.edu/about/administrative-services/college-police/police-policy-and-training.html,2026-08-26,2026-08-26,OK,
+bwave-20260826T1510Z-observations.csv,city-of-lemoore-ca,Lemoore PD,CA,,30,20,279,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1510Z-observations.csv,colma-ca-pd,Colma PD,CA,30,30,11,327,0,0,0,0,0,harrassment,https://www.colma.ca.gov/documents/colma-police-department-policy-manual/,2026-08-26,2026-08-26,OK,
+bwave-20260826T1510Z-observations.csv,colton-ca-pd-,Colton PD,CA,,30,41,320,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1510Z-observations.csv,delano-ca-pd,Delano PD,CA,,30,45,343,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1510Z-observations.csv,dixon-ca-pd,Dixon PD,CA,30,30,31,347,0,0,0,0,0,harassment,https://www.dixonpoliceca.gov/media/alpr-policy-460.pdf,2026-08-26,2026-08-26,OK,
+bwave-20260826T1510Z-observations.csv,el-cerrito-ca-pd,El Cerrito PD,CA,30,,,,,,,,,,,2026-08-26,2026-08-26,NO_PORTAL_EMPTY_CHURN,
+bwave-20260826T1510Z-observations.csv,emeryville-ca-pd,Emeryville PD,CA,,30,16,0,0,0,0,0,0,harassment,https://www.emeryville.org/Government/Departments/Police/Training-and-Policies,2026-08-26,2026-08-26,OK,
+bwave-20260826T1510Z-observations.csv,el-segundo-ca-pd,El Segundo PD,CA,,30,17,258,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1510Z-observations.csv,escondido-ca-pd,Escondido PD,CA,,30,8,309,0,0,0,0,0,harassment,https://www.escondido.gov/DocumentCenter/View/4385/162-PDF,2026-08-26,2026-08-26,OK,
+bwave-20260826T1510Z-observations.csv,fairfield-ca-pd,Fairfield PD,CA,30,30,231,357,0,0,0,0,0,harrassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1510Z-observations.csv,folsom-ca-pd,Folsom PD,CA,,121,,144,0,0,0,0,0,EDITED_adds_non-CA-agency-ban,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1510Z-observations.csv,fontana-ca-pd,Fontana PD,CA,,30,50,314,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1510Z-observations.csv,foothilldeanza-ca-pd,Foothill-De Anza PD,CA,,30,3,1,0,0,229,1,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1510Z-observations.csv,fort-bragg-ca-pd,Fort Bragg PD,CA,,30,7,296,0,0,265,14,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1510Z-observations.csv,fountain-valley-ca-pd,Fountain Valley PD,CA,,30,10,269,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1525Z-observations.csv,dinuba-ca-pd,Dinuba PD,CA,,30,8,268,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1525Z-observations.csv,galt-ca-pd,Galt PD,CA,30,30,30,315,0,0,0,0,0,harrassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1525Z-observations.csv,gilroy-ca-pd,Gilroy PD,CA,30,30,58,332,0,0,292,31,0,harrassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1525Z-observations.csv,grover-beach-ca-pd,Grover Beach PD,CA,30,30,17,302,0,0,0,0,0,harrassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1525Z-observations.csv,hanford-ca-pd,Hanford PD,CA,,30,17,336,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1525Z-observations.csv,healdsburg-ca-pd,Healdsburg PD,CA,,90,31,18,0,0,95,26,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1525Z-observations.csv,lake-county-ca-so,Lake County SO,CA,30,30,25,323,0,0,0,0,0,harrassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1525Z-observations.csv,hillsborough-ca-pd,Hillsborough PD,CA,30,365,22,310,0,0,0,0,0,EDITED_full_rewrite,https://www.hillsborough.net/DocumentCenter/View/3774/HPD-Policy-Manual-?bidId=,2026-08-26,2026-08-26,OK,
+bwave-20260826T1725Z-observations.csv,hemet-ca-pd-,Hemet PD,CA,30,30,154,365,0,0,0,0,0,harrassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1725Z-observations.csv,hercules-ca-pd,Hercules PD,CA,30,30,25,331,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1725Z-observations.csv,humboldt-county-ca-so,Humboldt County SO,CA,,30,11,22,0,0,0,0,0,harassment,https://humboldtgov.org/DocumentCenter/View/144358/HCSO-Policy-437,2026-08-26,2026-08-26,OK,
+bwave-20260826T1725Z-observations.csv,kern-county-ca-so-,Kern County SO,CA,30,30,66,329,0,0,0,0,0,harrassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1725Z-observations.csv,kings-county-das-office,Kings County DA,CA,30,,,,,,,,,,,2026-08-26,2026-08-26,NO_PORTAL_EMPTY,
+bwave-20260826T1725Z-observations.csv,kings-county-sheriffs-office-ca-,Kings County SO,CA,,30,10,298,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1725Z-observations.csv,lakeshore-homes-association-ca-,Lakeshore Homes Assn (PRIVATE HOA),CA,,30,8,10,0,0,0,0,0,EDITED_adds_state-lines-sharing-ban,,2026-08-26,2026-08-26,OK_NONLE,
+bwave-20260826T1725Z-observations.csv,lassen-county-so-ca,Lassen County SO,CA,,30,11,231,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1725Z-observations.csv,lathrop-ca-pd-,Lathrop PD,CA,,90,6,306,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1725Z-observations.csv,livingston-ca-pd,Livingston PD,CA,,30,26,104,0,0,157,0,0,EDITED_adds_reproductive_rights,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1725Z-observations.csv,lodi-ca-pd,Lodi PD,CA,30,30,19,377,0,0,0,0,0,harrassment,https://www.lodi.gov/DocumentCenter/View/4153/Lodi-Police-Policy-and-Procedure,2026-08-26,2026-08-26,OK,
+bwave-20260826T1725Z-observations.csv,lompoc-ca-pd,Lompoc PD,CA,,30,,0,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1725Z-observations.csv,madera-ca-pd,Madera PD,CA,,30,8,207,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1725Z-observations.csv,mammoth-lakes-ca-pd,Mammoth Lakes PD,CA,,30,15,1,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1725Z-observations.csv,manteca-ca-pd,Manteca PD,CA,,,,,,,,,,,,2026-08-26,2026-08-26,NO_PORTAL_EMPTY,
+bwave-20260826T1725Z-observations.csv,marina-ca-pd,Marina PD,CA,,30,,287,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1925Z-observations.csv,menifee-ca-pd,Menifee PD,CA,30,30,44,353,0,0,0,0,0,harrassment,https://menifeepolice.org/wp-content/uploads/2026/06/Automated-License-Plate-Readers-ALPRs.pdf,2026-08-26,2026-08-26,OK,
+bwave-20260826T1925Z-observations.csv,menlo-park-ca-pd,Menlo Park PD,CA,,30,35,5,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1925Z-observations.csv,mendocino-county-soca,Mendocino County SO,CA,,30,8,308,0,0,404,134,1,harassment,https://mendocinosheriff.org/wp-content/uploads/2025/12/Policy-470-ALPRs.pdf,2026-08-26,2026-08-26,OK,
+bwave-20260826T1925Z-observations.csv,merced-county-ca-so,Merced County SO,CA,,30,,0,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1925Z-observations.csv,modoc-county-ca-so,Modoc County SO,CA,,30,7,310,0,0,0,0,0,EDITED_adds_reproductive_rights,https://www.modocsheriff.us/policy-manual/pages/policy-manual-01-role-authority,2026-08-26,2026-08-26,OK,
+bwave-20260826T1925Z-observations.csv,monrovia-ca-pd,Monrovia PD,CA,30,30,24,317,0,0,0,0,0,harrassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1925Z-observations.csv,montclair-ca-pd,Montclair PD,CA,,30,60,332,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1925Z-observations.csv,monte-sereno-ca-pd,Monte Sereno PD,CA,,30,20,15,0,0,0,0,0,harassment,https://www.losgatosca.gov/DocumentCenter/View/23300/Automated-License-Plate-Reader-Policypdf,2026-08-26,2026-08-26,OK,
+bwave-20260826T1925Z-observations.csv,monterey-park-ca-pd,Monterey Park PD,CA,30,30,34,242,0,0,0,0,0,harrassment,https://www.montereypark.ca.gov/DocumentCenter/View/19386/Automated-License-Plate-Readers-ALPRs-Policy-08-03-26,2026-08-26,2026-08-26,OK,
+bwave-20260826T1925Z-observations.csv,morgan-hill-ca-pd,Morgan Hill PD,CA,30,30,66,314,0,0,0,0,0,harrassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1925Z-observations.csv,napa-county-ca-so,Napa County SO,CA,30,30,13,326,0,0,307,2,1,harrassment,https://www.countyofnapa.org/DocumentCenter/View/15565/Napa-County-Sheriff-Office-Policy-Manual-2022-PDF?bidId=,2026-08-26,2026-08-26,OK,
+bwave-20260826T1925Z-observations.csv,national-city-ca-pd,National City PD,CA,,30,91,313,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1925Z-observations.csv,newport-beach-pd-ca,Newport Beach PD,CA,,365,82,302,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1925Z-observations.csv,novato-ca-pd,Novato PD,CA,30,30,6,322,0,0,0,0,0,harrassment,https://www.novato.org/government/police-department/transparency,2026-08-26,2026-08-26,OK,
+bwave-20260826T1925Z-observations.csv,oakley-ca-pd,Oakley PD,CA,30,30,4,343,0,0,0,0,0,harrassment,,2026-08-26,2026-08-26,OK,
+bwave-20260826T1925Z-observations.csv,ontario-ca-pd,Ontario PD,CA,,365,126,313,0,0,0,0,0,harassment,,2026-08-26,2026-08-26,OK,
+bwave-20260828T0410Z-observations.csv,oxnard-ca-pd-,Oxnard PD,CA,,30,19,1,0,0,0,0,0,EDITED_adds_random_surveillance,https://sites.google.com/oxnardpd.org/department-policy-manual/department-policy-manual,2026-08-27,2026-08-27,OK,
+bwave-20260828T0410Z-observations.csv,pacifica-ca-pd,Pacifica PD,CA,,30,10,88,0,0,0,0,0,harassment,,2026-08-27,2026-08-27,OK,
+bwave-20260828T0410Z-observations.csv,petaluma-ca-pd,Petaluma PD,CA,,30,4,203,0,0,0,0,0,EDITED_drops_traffic_enforcement,https://cityofpetaluma.org/documents/petaluma-police-department-policy-manual/,2026-08-27,2026-08-27,OK,
+bwave-20260828T0410Z-observations.csv,pleasanton-ca-pd,Pleasanton PD,CA,,30,40,165,0,0,0,0,0,harassment_lowercase,https://www.cityofpleasantonca.gov/our-government/police/open-data-and-dashboards/,2026-08-27,2026-08-27,OK,
+bwave-20260828T0410Z-observations.csv,port-of-stockton-ca-pd,Port of Stockton PD,CA,,30,10,303,0,0,0,0,0,harrassment,https://www.portofstockton.com/wp-content/uploads/2024/04/RELEASE_20240410_T152146_Port-of-Stockton-Police-Department-Policy-Manual.pdf,2026-08-27,2026-08-27,OK,
+bwave-20260828T0410Z-observations.csv,porterville-ca-pd,Porterville PD,CA,,30,12,314,0,0,0,0,0,harassment,,2026-08-27,2026-08-27,OK,
+bwave-20260828T0410Z-observations.csv,redlands-ca-pd,Redlands PD,CA,,365,55,192,0,0,0,0,0,harassment,,2026-08-27,2026-08-27,OK,
+bwave-20260828T0410Z-observations.csv,redwood-city-ca-pd,Redwood City PD,CA,30,30,25,91,0,0,0,0,0,harassment,,2026-08-27,2026-08-27,OK,
+browser-wave-ca-observations.csv,san-francisco-ca-pd,San Francisco PD,CA,,365,483,315,0,0,,,,harassment,https://www.sanfranciscopolice.org/sites/default/files/2025-09/SFPD_SurveillanceTechnologyPolicy_ALPR_20250910.pdf,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,hayward-ca-pd,Hayward PD,CA,,365,85,0,0,0,0,0,0,,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,alameda-county-ca-so,Alameda County SO,CA,,365,,125,0,0,0,0,0,EXPANDED_repro_gender,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,beverly-hills-ca-pd,Beverly Hills PD,CA,,365,118,308,0,0,0,0,0,NONE,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,alameda-ca-pd,Alameda PD,CA,30,30,36,0,0,0,252,110,1,harrassment,https://www.alamedaca.gov/files/assets/public/departments/alameda/police/fixed-alpr-policy.pdf,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,albany-ca-pd,Albany PD,CA,,30,35,104,0,0,0,0,0,harassment,https://www.albanyca.gov/files/assets/city/v/1/police/documents/policies/apd-policy-424-alpr.pdf,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,atherton-ca-pd,Atherton PD,CA,365,30,53,310,0,0,0,0,0,harrassment,https://www.athertonca.gov/DocumentCenter/View/12521/20260208_Atherton-PD-Policy-Manual,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,auburn-ca-pd,Auburn PD,CA,,30,12,314,0,0,0,0,0,harassment,https://www.auburn.ca.gov/493/Policies-and-Procedures-Manual,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,bakersfield-ca-pd,Bakersfield PD,CA,,30,462,362,0,0,0,0,0,harassment_lowercase,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,barstow-ca-pd,Barstow PD,CA,30,30,87,319,0,0,0,0,0,harrassment,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,beaumont-ca-pd,Beaumont PD,CA,,30,54,311,0,0,0,0,0,harassment,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,bell-ca-pd,Bell PD,CA,,30,11,356,0,0,0,0,0,harassment,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,bell-gardens-ca-pd,Bell Gardens PD,CA,,30,23,0,0,0,0,0,0,harassment,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,benicia-ca-pd,Benicia PD,CA,30,30,,75,0,0,0,0,0,harrassment,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,berkeley-ca-pd,Berkeley PD,CA,,30,52,47,0,0,0,0,0,harassment,https://berkeleyca.gov/sites/default/files/documents/Surveillance_Use_Policy-Fixed_Automated_License_Plate_Readers__ALPRs_%201.pdf,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,brawley-ca-pd,Brawley PD,CA,30,30,41,319,0,0,0,0,0,harrassment,http://www.brawley-ca.gov/cms/kcfinder/upload/files/police_department/Automated%20License%20Plate%20Readers%20Policy%20462%2010.25.2017.pdf,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,brisbane-ca-pd,Brisbane PD,CA,,30,16,89,0,0,0,0,0,harassment,https://www.brisbaneca.org/police/page/alpr,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,buena-park-ca-pd,Buena Park PD,CA,30,30,18,324,0,0,0,0,0,harrassment,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,burbank-ca-pd,Burbank PD,CA,,30,57,359,0,0,0,0,0,,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,cal-maritime-ca,Cal Maritime,CA,,30,8,1,0,0,0,0,0,harassment,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,calistoga-ca-pd,Calistoga PD,CA,30,30,6,368,0,0,0,0,0,harrassment,https://www.calistogaca.gov/files/assets/city/v/1/police/documents/police-department-policy-and-procedural-manual.pdf,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,campbell-ca-pd,Campbell PD,CA,30,30,19,324,0,0,0,0,0,harassment,https://www.campbellca.gov/DocumentCenter/View/24206/Campbell-PD-Policy-Manual---042925,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,capitola-ca-pd,Capitola PD,CA,,30,10,7,0,0,0,0,0,harassment,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,carmel-ca-pd,Carmel PD,CA,30,30,6,1,0,0,0,0,0,harrassment,https://ci.carmel.ca.us/sites/main/files/file-attachments/policy_462_automated_licenseplate_reader_policy.pdf?1689800923,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,cathedral-city-ca-pd,Cathedral City PD,CA,30,30,35,253,0,0,0,0,0,harrassment,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,chula-vista-ca-pd,Chula Vista PD,CA,,30,150,317,0,0,,,,harrassment,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,citrus-heights-ca-pd,Citrus Heights PD,CA,,30,,350,0,0,0,0,0,harassment,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,pasadena-ca-pd,Pasadena PD,CA,,30,61,317,0,0,,,,harassment,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,stockton-ca-pd,Stockton PD,CA,,30,147,321,0,0,0,0,0,,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,vallejo-ca-pd,Vallejo PD,CA,30,30,,29,0,0,307,21,0,,https://vallejopd.net/UserFiles/Servers/Server_16397369/Image/Public%20Information/Codes%20and%20Policies/Automated_License_Plate_Readers__ALPRs_2024.pdf,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,west-sacramento-ca-pd,West Sacramento PD,CA,,30,32,321,0,0,292,28,0,harassment,,,2026-08-24,OK,yes
+browser-wave-ca-observations.csv,sacramento-ca-pd,Sacramento PD,CA,,,,,,,,,,,,,2026-08-24,NO_PORTAL_EMPTY,yes
+browser-wave-ca-observations.csv,butte-county-ca-so,Butte County SO,CA,,,,,,,,,,,,,2026-08-24,NO_PORTAL_EMPTY,yes

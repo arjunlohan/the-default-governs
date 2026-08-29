@@ -1,0 +1,23 @@
+jurisdiction,state,ordinance_cite,adoption_date,verification,alpr_named_in_definition,in_sample,agency_slugs,notes
+Berkeley,CA,BMC Ch. 2.99 (Ord. 7592-NS 2018; Ord. 7676-NS 2019),2018-03-13,PRIMARY (history note) + white paper date,YES,Y,berkeley-ca-pd,OBS-809
+Davis,CA,Mun. Code 26.07,2018-04-03,SECONDARY (Berkeley Law WP 2021),UNVERIFIED,N,,OBS-813
+Oakland,CA,Mun. Code 9.64,UNVERIFIED (WP says 2021-01-20; widely reported 2018),SECONDARY — DATE CONFLICT,UNVERIFIED,N,,OBS-813; Oakland not in frame_ca
+Palo Alto,CA,Admin. Code 2.30.620-2.30.690,2018-09-10,SECONDARY (WP); amlegal shell only,UNVERIFIED,Y,palo-alto-ca-pd,30 in Apr-2024 N&O; OBS-813/815
+San Francisco,CA,Admin. Code Ch. 19B,2019-05-14,SECONDARY (WP; ACLU page says 2019); amlegal shell only,UNVERIFIED,Y,san-francisco-ca-pd,OBS-813/815
+Santa Clara County,CA,County Code Div. A40,2016-06-21 (county page: 2016; amended 2023-12-12),COUNTY PAGE + WP,UNVERIFIED,Y,santa-clara-county-ca-so,30 in Apr-2024; Flock prohibited by Board policy 2026 (OBS-796); OBS-812
+BART,CA,BART Code 17,2018-09-13,SECONDARY (WP),UNVERIFIED,N,,OBS-813
+Cambridge,MA,Mun. Code 2.128,2018-12-10,SECONDARY (WP + TIPI agree),UNVERIFIED,N,,OBS-813
+Lawrence,MA,Mun. Code 9.25,2018-09-18,SECONDARY (WP),UNVERIFIED,N,,OBS-813
+Somerville,MA,Mun. Code 10-61 to 10-69,2019-10-10 (TIPI: Nov 2019),SECONDARY — DATE CONFLICT,UNVERIFIED,N,,OBS-813
+Boston,MA,Ordinance (Docket #0397 2021); effective 2022-08,UNVERIFIED (search titles only),UNVERIFIED,UNVERIFIED,N,,Restore the Fourth list; boston.gov PDF not fetched
+Grand Rapids,MI,Admin. Policy 15-03 (2015); ordinance Jan 2022 per TIPI,2015-03-24 / 2022-01,SECONDARY — TWO INSTRUMENTS,UNVERIFIED,N,,OBS-813
+Detroit,MI,UNVERIFIED,UNVERIFIED,Restore the Fourth list only,UNVERIFIED,N,,
+New York City,NY,Admin. Code 14-188 (POST Act),2020-07-15,SECONDARY (WP + ACLU page 2020),UNVERIFIED,N,,Informational-only per Restore the Fourth
+Yellow Springs,OH,Mun. Code 607,2018-11-19,SECONDARY (WP + TIPI agree),UNVERIFIED,N,,OBS-813
+Dayton,OH,cite NOT obtained,2021-05-18,PRESS (WYSO) — unanimous,catalyst was ALPR,Y,dayton-oh-pd,30 in Apr-2024; daytonohio.gov blocked; OBS-811
+Nashville-Davidson,TN,Metro Code 13.08.080,2017-06-07,SECONDARY (WP),UNVERIFIED,N,,nashville-nc-pd is NC — NOT a match
+Seattle,WA,SMC Ch. 14.18,2017-07-31,SECONDARY (WP),UNVERIFIED,N,,Seattle PD not in either frame; check full N&O agency file
+Madison,WI,Mun. Code 23.63,2020-06-16,SECONDARY (WP + TIPI agree),UNVERIFIED,N,,
+New Orleans,LA,UNVERIFIED,UNVERIFIED,Restore the Fourth list only,UNVERIFIED,N,,
+St. Louis,MO,UNVERIFIED,UNVERIFIED,ACLU-WI page only,UNVERIFIED,N,,
+Santa Cruz,CA,Ch. 9.85 (Ord. 2020-17),2020,PRIMARY — EXCLUDED,NO (face recognition + predictive policing ban only),EXCLUDED,santa-cruz-ca-pd,NOT CCOPS; OBS-810

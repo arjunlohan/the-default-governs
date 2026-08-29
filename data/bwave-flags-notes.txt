@@ -1,0 +1,51 @@
+[bwave-20260826T1510Z-observations.csv] # NOTES
+[bwave-20260826T1510Z-observations.csv] # el-cerrito: portal loads with no data. El Cerrito cancelled Flock June 2026 (non-renewal, findingflock tracker).
+[bwave-20260826T1510Z-observations.csv] #   2024 N&O value was 30. This is CHURN (zeroed portal), not a mover and not a missing portal. Exclude from distributions.
+[bwave-20260826T1510Z-observations.csv] # folsom: 121 days — FIRST idiosyncratic retention value observed in any wave (not 7/15/30/60/365).
+[bwave-20260826T1510Z-observations.csv] #   Also a locally EDITED prohibited-uses text (adds "any use by non-California Agencies"). Third edited agency
+[bwave-20260826T1510Z-observations.csv] #   after Alameda County SO and Culver City. Pattern: agencies that edit the template also set bespoke values.
+[bwave-20260826T1525Z-observations.csv] # FLAGS
+[bwave-20260826T1525Z-observations.csv] # LAKE COUNTY SO — F81 GATE CLOSED (browser instrument): live Flock portal updated Wed Aug 26 2026,
+[bwave-20260826T1525Z-observations.csv] #   25 cameras, 30 days, 323 partners, vendor's misspelled template. The portal IS the vendor
+[bwave-20260826T1525Z-observations.csv] #   identification: Lake County SO operates Flock at 30. Not a counter-example to F81. Cloud runs
+[bwave-20260826T1525Z-observations.csv] #   should mark the Lake County vendor item RESOLVED (remaining F81 gate: CSU policy only).
+[bwave-20260826T1525Z-observations.csv] # HILLSBOROUGH — MOVER: 30 (2024 N&O) -> 365 (2026). Third confirmed mover after Atherton and
+[bwave-20260826T1525Z-observations.csv] #   Piedmont; direction consistent with all others (away from default = longer, or toward default;
+[bwave-20260826T1525Z-observations.csv] #   never below 30). ALSO the FOURTH locally-edited prohibited-uses text (full rewrite: "Activities
+[bwave-20260826T1525Z-observations.csv] #   that are considered immigration enforcement, commercial, non-law enforcement, personal, and
+[bwave-20260826T1525Z-observations.csv] #   prohibited as defined by applicable laws or policies"). Engagement correlation: 4 of 4 edited-text
+[bwave-20260826T1525Z-observations.csv] #   agencies hold at least one strongly non-default setting (Alameda County SO 365; Culver City
+[bwave-20260826T1525Z-observations.csv] #   1 partner; Folsom 121d; Hillsborough 365).
+[bwave-20260826T1525Z-observations.csv] # HEALDSBURG — 90 days: SECOND idiosyncratic value (after Folsom 121). Only 18 outbound partners.
+[bwave-20260826T1525Z-observations.csv] #   Engaged agency without text editing. Cloud runs track a 2022 Lexipol policy for Healdsburg —
+[bwave-20260826T1525Z-observations.csv] #   reconcile the 90 against that document's text.
+[bwave-20260826T1525Z-observations.csv] # Still ZERO at 7 days anywhere; still ZERO out-of-state entries in any CA outbound sharing list.
+[bwave-20260826T1725Z-observations.csv] # FLAGS (tick 2026-08-26T1713Z, batches 2-3)
+[bwave-20260826T1725Z-observations.csv] # LATHROP — 90 days: THIRD idiosyncratic value (Folsom 121, Healdsburg 90, Lathrop 90).
+[bwave-20260826T1725Z-observations.csv] # LIVINGSTON — SIXTH edited prohibited-uses text: adds "reproductive rights"; 104 partners (narrow band).
+[bwave-20260826T1725Z-observations.csv] # LAKESHORE HOMES ASSN — FIFTH edited text: adds "Sharing of information across state lines" ban;
+[bwave-20260826T1725Z-observations.csv] #   private HOA, 10 partners; tag OK_NONLE, exclude from law-enforcement distributions.
+[bwave-20260826T1725Z-observations.csv] # HUMBOLDT COUNTY SO — browser 30 == cloud-wave 30: instrument cross-validation point.
+[bwave-20260826T1725Z-observations.csv] # MANTECA + KINGS COUNTY DA — empty portals; Manteca was NOT in the 2024 N&O frame; Kings DA WAS at 30
+[bwave-20260826T1725Z-observations.csv] #   in 2024 per frame. Check churn trackers before classifying; never infer.
+[bwave-20260826T1725Z-observations.csv] # Running: still ZERO at 7 days; ZERO OOS in any CA outbound sharing list.
+[bwave-20260826T1925Z-observations.csv] # FLAGS (tick 2026-08-26T1915Z)
+[bwave-20260826T1925Z-observations.csv] # MODOC COUNTY SO — SEVENTH edited text (adds "reproductive rights"). Rural county SO; 310 partners.
+[bwave-20260826T1925Z-observations.csv] #   NOTE: edited-text-with-default-everything-else — first edited agency WITHOUT a non-default setting
+[bwave-20260826T1925Z-observations.csv] #   elsewhere. Weakens the 4-for-4 engagement correlation to 5-of-7; report the correlation honestly.
+[bwave-20260826T1925Z-observations.csv] #   (Livingston also: edited text + 30d + narrow-ish 104 partners. Count carefully at writeup.)
+[bwave-20260826T1925Z-observations.csv] # NEWPORT BEACH 365, ONTARIO 365 — two more long-retention agencies, both with ~300-partner default
+[bwave-20260826T1925Z-observations.csv] #   sharing lists: retention engagement does NOT imply sharing engagement. Axes are separable.
+[bwave-20260826T1925Z-observations.csv] # MENLO PARK — 5 outbound partners (known 7-council-discussion agency from state files' panel table;
+[bwave-20260826T1925Z-observations.csv] #   consistent: heavy deliberation history, heavily configured sharing).
+[bwave-20260826T1925Z-observations.csv] # MENDOCINO COUNTY SO receives from 404 orgs (134 OOS, 1 federal) — largest inbound network yet.
+[bwave-20260826T1925Z-observations.csv] # Policy PDFs harvested: Menifee (June 2026), Mendocino Policy 470 (Dec 2025), Monterey Park
+[bwave-20260826T1925Z-observations.csv] #   (dated 08-03-26 in filename — THREE WEEKS AGO, post-announcement policy doc), Napa County (2022).
+[bwave-20260826T1925Z-observations.csv] # Still ZERO at 7 days; ZERO OOS in any CA outbound sharing list.
+[bwave-20260828T0410Z-observations.csv] # FLAGS (live restart chunk after 36h chain outage, ~9pm PT 2026-08-27)
+[bwave-20260828T0410Z-observations.csv] # OXNARD — EIGHTH edited text (adds "random surveillance"); 1 outbound partner. Engaged on both axes.
+[bwave-20260828T0410Z-observations.csv] # PETALUMA — NINTH edited text: DROPS "traffic enforcement" from the prohibited list — the first
+[bwave-20260828T0410Z-observations.csv] #   agency to REMOVE a protection rather than add one. Petaluma retains traffic enforcement as a
+[bwave-20260828T0410Z-observations.csv] #   permitted use. Directionality of edits is now a codeable variable: 8 tighten, 1 loosens.
+[bwave-20260828T0410Z-observations.csv] # REDLANDS — 365. CA 365-count now 13.
+[bwave-20260828T0410Z-observations.csv] # Still ZERO at 7; ZERO OOS in CA outbound lists.
