@@ -28,8 +28,6 @@ The longitudinal panel and national aggregate are the first published datasets o
 - Of 11 surveillance-oversight jurisdictions with an active ALPR programme, 8 never deliberated the retention number
 - When the vendor changed its recommended default from 30 to 7 on August 13, 2026, 1.2% of portals displayed the new value fifteen days later
 
-All figures are machine-generated from the deposited data. See the paper for methodology, limitations, and caveats.
-
 ## Repository layout
 
 ```
